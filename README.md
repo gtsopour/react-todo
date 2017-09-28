@@ -5,6 +5,7 @@ Build a Minimal Todo App with ES6 and React.
 
 ```bash
 $ npm install
+$ npm start
 ```
 
 Browse the Application:
